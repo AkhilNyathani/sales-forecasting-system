@@ -6,6 +6,8 @@ This project is a production-ready sales forecasting application built with Pyth
 
 The app is designed to run out-of-the-box with a bundled sample dataset and does not require a backend service for its core workflow.
 
+Live Demo Link: https://sales-forecasting-system.streamlit.app/
+
 ## Features
 
 - CSV upload for historical sales data
