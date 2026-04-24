@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.log
+
+.venv/
+venv/
+env/
+
+.streamlit/
+.ipynb_checkpoints/
+
+Thumbs.db
+.DS_Store
+
+models/*.pkl
+!models/forecasting_model.pkl
